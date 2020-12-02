@@ -1,0 +1,2 @@
+# drum
+Simple javascript project
